@@ -1,7 +1,7 @@
 # Comprehensive Documentation for Building a Secure, Authentic Voting Website
 
 ## Overview
-This document serves as a comprehensive guide to building a secure voting website that prioritizes fraud prevention and scams. The system aims to uphold the integrity of elections through advanced technology and reliable mechanisms.
+A voter management and authentication for Kenya.
 
 ## Features
 
